@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+    width: 100%;
+    color: #fff;
+}
+.head{
+    background-image: url('Assets/hero2.svg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100%;
+}
